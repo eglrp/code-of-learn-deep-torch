@@ -1,6 +1,7 @@
 # 深度学习入门之PyTorch 
 
 Learn Deep Learning with PyTorch
+来源：(https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch)
 
 非常感谢您能够购买此书，这个github repository包含有[深度学习入门之PyTorch](https://item.jd.com/17915495606.html)的实例代码。由于本人水平有限，在写此书的时候参考了一些网上的资料，在这里对他们表示敬意。由于深度学习的技术在飞速的发展，同时PyTorch也在不断更新，且本人在完成此书的时候也有诸多领域没有涉及，所以这个repository会不断更新作为购买次书的一个后续服务，希望我能够在您深度学习的入门道路上提供绵薄之力。
 
